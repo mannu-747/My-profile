@@ -28,23 +28,38 @@ export default function SkillsSection() {
       color: "from-green-400 to-green-600",
     },
     {
-      icon: "🧠",
-      title: "Machine Learning",
-      description: "Deep Learning, CNN, Computer Vision",
-      percentage: 75,
-      color: "from-purple-400 to-purple-600",
+     icon:  "📡"
+     title: "APIs & Communication",
+     description: "RESTful APIs",
+     percentage: 90,
+     color: "from-green-400 to-green-600",
     },
+    {
+      icon:  "📊"
+     title: "System Design",
+     description: "Caching (Redis, Memcached), Message Queues (RabbitMQ, Kafka, SQS), Load Balancing, Rate Limiting, Microservices Architecture",
+     percentage: 90,
+     color: "from-green-400 to-green-600",
+    }
   ];
 
   const tools = [
-    "Git/GitLab",
-    "Visual Studio",
-    "PyCharm", 
-    "Odoo ERP",
-    "XML",
-    "Java OOPs",
-    "Data Structures",
-    "Algorithms",
+  "Python (FastAPI, Django)",
+  "PostgreSQL, MongoDB, Redis",
+  "AWS (EC2, S3, RDS, Lambda)",
+  "Docker, GitHub Actions",
+  "REST, GraphQL, gRPC",
+  "Kafka, RabbitMQ",
+  "Nginx, API Gateway",
+  "Prometheus, Grafana",
+  "Git/GitLab",
+  "Visual Studio",
+  "PyCharm", 
+  "Odoo ERP",
+  "XML",
+  "Java OOPs",
+  "Data Structures",
+  "Algorithms",
   ];
 
   return (
