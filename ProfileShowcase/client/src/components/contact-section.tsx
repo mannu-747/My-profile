@@ -140,12 +140,12 @@ export default function ContactSection() {
                 <div>
                   <p className="font-medium">LinkedIn</p>
                   <a 
-                    href="https://linkedin.com/in/manojkumarpichuka" 
+                    href="https://www.linkedin.com/in/manoj-kumar-588085209" 
                     className="text-muted-foreground hover:text-primary transition-colors"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    linkedin.com/in/manojkumarpichuka
+                    linkedin.com/in/manoj-kumar-588085209
                   </a>
                 </div>
               </div>
