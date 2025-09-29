@@ -29,7 +29,7 @@ export default function HeroSection() {
             </h2>
             
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Results-driven Software Engineer with 2+ years of experience in designing robust backend solutions. 
+              Results-driven Software Engineer with 2.8+ years of experience in designing robust backend solutions. 
               Specialized in Python, AWS, and performance optimization - achieving 55% reduction in SQL execution time.
             </p>
             
@@ -51,7 +51,7 @@ export default function HeroSection() {
             
             <div className="flex items-center space-x-6">
               <a 
-                href="https://linkedin.com/in/manojkumarpichuka" 
+                href="https://www.linkedin.com/in/manoj-kumar-588085209" 
                 className="text-muted-foreground hover:text-primary text-xl transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -59,7 +59,7 @@ export default function HeroSection() {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a 
-                href="https://github.com/manojkumarpichuka" 
+                href="https://github.com/mannu-747" 
                 className="text-muted-foreground hover:text-primary text-xl transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -67,7 +67,7 @@ export default function HeroSection() {
                 <Github className="w-6 h-6" />
               </a>
               <a 
-                href="https://leetcode.com/manojkumarpichuka" 
+                href="https://leetcode.com/u/Mannu_747/" 
                 className="text-muted-foreground hover:text-primary text-xl transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -97,7 +97,7 @@ export default function HeroSection() {
             <div className="absolute -top-4 -right-4 bg-card p-4 rounded-xl shadow-lg animate-float" style={{ animationDelay: "0.5s" }}>
               <div className="flex items-center space-x-2">
                 <div className="w-3 h-3 bg-accent rounded-full animate-pulse"></div>
-                <span className="text-sm font-medium">2+ Years Experience</span>
+                <span className="text-sm font-medium">2.8+ Years Experience</span>
               </div>
             </div>
             

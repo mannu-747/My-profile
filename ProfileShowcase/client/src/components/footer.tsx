@@ -14,7 +14,7 @@ export default function Footer() {
 
           <div className="flex items-center space-x-6">
             <a 
-              href="https://linkedin.com/in/manojkumarpichuka" 
+              href="https://www.linkedin.com/in/manoj-kumar-588085209" 
               className="text-muted-foreground hover:text-primary transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -22,7 +22,7 @@ export default function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="https://github.com/manojkumarpichuka" 
+              href="https://github.com/mannu-747" 
               className="text-muted-foreground hover:text-primary transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -30,7 +30,7 @@ export default function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a 
-              href="https://leetcode.com/manojkumarpichuka" 
+              href="https://leetcode.com/u/Mannu_747/" 
               className="text-muted-foreground hover:text-primary transition-colors"
               target="_blank"
               rel="noopener noreferrer"
